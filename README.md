@@ -62,8 +62,53 @@ This video streaming program start with high video resolution. It automatically 
 
 Set a `m_videoSpeed` in `video-stream-client.cc`, and you are expected to get the graph like this.
 
-![- (1) P2P](./attachments/Result/stream_p2p_1.png)
+![](./attachments/Result/stream_p2p_1.png)
 ![](./attachments/Result/stream_wifi_1.png)
+- (1) P2P Link
+- (2) WiFi Link
+
+### Case of requesting video with speed x1.2
+
+Set a `m_videoSpeed` in `video-stream-client.cc`, and you are expected to get the graph like this.
+
+![](./attachments/Result/stream_p2p_1.2.png)
+![](./attachments/Result/stream_wifi_1.2.png)
+- (1) P2P Link
+- (2) WiFi Link
+
+### Case of requesting video with speed x1.4
+
+Set a `m_videoSpeed` in `video-stream-client.cc`, and you are expected to get the graph like this.
+
+![](./attachments/Result/stream_p2p_1.4.png)
+![](./attachments/Result/stream_wifi_1.4.png)
+- (1) P2P Link
+- (2) WiFi Link
+
+### Case of requesting video with speed x1.6
+
+Set a `m_videoSpeed` in `video-stream-client.cc`, and you are expected to get the graph like this.
+
+![](./attachments/Result/stream_p2p_1.6.png)
+![](./attachments/Result/stream_wifi_1.6.png)
+- (1) P2P Link
+- (2) WiFi Link
+
+### Case of requesting video with speed x1.8
+
+Set a `m_videoSpeed` in `video-stream-client.cc`, and you are expected to get the graph like this.
+
+![](./attachments/Result/stream_p2p_1.8.png)
+![](./attachments/Result/stream_wifi_1.8.png)
+- (1) P2P Link
+- (2) WiFi Link
+
+### Case of requesting video with speed x2
+
+Set a `m_videoSpeed` in `video-stream-client.cc`, and you are expected to get the graph like this.
+
+![](./attachments/Result/stream_p2p_2.png)
+![](./attachments/Result/stream_wifi_2.png)
 - (1) P2P Link
 - (2) WiFi Link
 

@@ -62,7 +62,7 @@ This video streaming program start with high video resolution. It automatically 
 
 Set a `m_videoSpeed` in `video-stream-client.cc`, and you are expected to get the graph like this.
 
-(./attachments/Result/stream_p2p_1.png) (./attachments/Result/stream_wifi_1.png)
+![](./attachments/Result/stream_p2p_1.png) [](./attachments/Result/stream_wifi_1.png)
 
 
 

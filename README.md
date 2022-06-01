@@ -44,6 +44,10 @@ ns-3 (version 3.30), Python (`python 2.7+` or `python 3.5+`), C++ compiler (`cla
 
 2. Quit gnuplot and check `stream.png` file.
 
+
+### Detailed explanation
+This video streaming program start with high video resolution. It automatically modify the video quality according to the current buffering. If you want to get more detailed information, check the `Results` section right down below.
+
 ## Results
 
 ### Network configurations
@@ -54,7 +58,14 @@ ns-3 (version 3.30), Python (`python 2.7+` or `python 3.5+`), C++ compiler (`cla
 - (2) Wireless network with 1 server and 1 client
 
  
-### Simulation
+### Case of requesting video with speed x1
+
+Set a `m_videoSpeed` in `video-stream-client.cc`, and you are expected to get the graph like this.
+
+
+
+
+
 
 
 #### 실험 세팅
